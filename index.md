@@ -1,5 +1,4 @@
 ---
-layout: home
 title: "Front page"
 ---
 
@@ -8,3 +7,7 @@ title: "Front page"
 That is a header
 
 ## Sub-header
+
+Go to the [About] page to learn more about me!
+
+[About]: _pages/about
