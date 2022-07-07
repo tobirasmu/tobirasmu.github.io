@@ -1,4 +1,6 @@
 theme: jekyll-theme-minimal
+title: "Tobias"
+url: "https://tobirasmu.github.io"
 
 include: 
   - _pages
