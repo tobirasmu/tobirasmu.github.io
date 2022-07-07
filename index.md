@@ -10,4 +10,4 @@ That is a header
 
 Go to the [About] page to learn more about me!
 
-[About]: _pages/about
+[About]: about
