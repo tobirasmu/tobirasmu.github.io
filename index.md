@@ -1,6 +1,5 @@
 ---
-permalink: /
-title: Front page
+title: "Front page"
 ---
 
 # Header
