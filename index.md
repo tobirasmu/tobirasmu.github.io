@@ -2,12 +2,12 @@
 title: "Front page"
 ---
 
-# Header
+# Page under construction
 
-That is a header
+This page have just launched and is not finished yet.
 
-## Sub-header
+## Me
 
-Go to the [About] page to learn more about me!
+This page is going to be serving as my personal website with information that I would like to share. Go to the [About] page to learn more about me!
 
 [About]: about
