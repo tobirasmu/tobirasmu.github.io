@@ -1,31 +1,40 @@
+
 <!DOCTYPE html>
 <html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"
+  <meta htto-equiv="X-UA-Compatible" content="ie=edge">
+  <title>{% if page.title %}{{ page.title | escape }}{% else %}{{ site.title | escape }}{% endif %}</title>
+  <link rel="stylesheet" href="main.css">
+</head>
+<header>
+  <nav>
+    <ul class="top_menu">
+      <li class="top_menu"><a href="index.html" class="top_menu">Home</a></li>
+      <li class="top_menu"><a href="_pages/locations.html" class="top_menu">Locations</a></li>
+      <li class="top_menu"><a href="_pages/contacts.html" class="top_menu">Contacts</a></li>
+    </ul>
+  </nav>
+</header>
 <body>
-  <section> <!-- This is the top division -->
-    <div class="">
-      a
+  <div class="page_content">
+    <div class="wrapper">
+      <h1> Hi med dig!</h1>
+        <p> Here goes a picture of <strong> Pão de queijo</strong>:</p>
+        <img src="pics/PDQ.jpeg" alt="" width="500">
+        <p>If you want the recipe, check it our <em>recipe</em> by pressing the button below</p>
+        <button type="button" name="Button">I'm a button</button>
+        <h2>Important things in life:</h2>
+        <ul>
+          <li>Pão de queijo</li>
+          <li>Mathematics</li>
+        </ul>
     </div>
-    <div class="">
-      b
-    </div>
-    <div class="">
-      c
-    </div>
-  </section>
-  <section> <!-- This is the bottom division -->
-    Something2
-  </section>
-
-
-  <h1> Hi med dig!</h1>
-  <p> Here goes a picture of <strong> Pão de queijo</strong>:</p>
-  <img src="pics/PDQ.jpeg" alt="" width="500">
-  <p>If you want the recipe, check it our <em>recipe</em> by pressing the button below</p>
-  <button type="button" name="Button">I'm a button</button>
-  <h2>Important things in life:</h2>
-  <ul>
-    <li>Pão de queijo</li>
-    <li>Mathematics</li>
-  </ul>
-
+  </div>
 </body>
+<footer>
+  <div class="footer_menu">
+    Footer with interesting information
+  </div>
+</footer>

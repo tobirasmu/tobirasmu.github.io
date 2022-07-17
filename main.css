@@ -6,28 +6,37 @@ header {
 footer {
   background: black;
   padding: 10px;
-  color: white;
 }
-/* Here are the style choices for the top menu */
-ul.nav {
-  list-style-type: circle;
+nav {
   margin: 0;
   padding: 0;
 }
-li.nav {
+/* Here are the style choices for the top menu */
+ul.top_menu {
+  list-style-type: circle;
+  margin: auto;
+  padding: 0;
+  width: 900px;
+}
+li.top_menu {
   display: inline-block;
   margin: 0 20px 0 0;
   color: white;
 }
-a.nav {
-  text-decoration: none;
+a.top_menu{
   color: white;
-  padding: 3px;
+  padding: 4px;
   border-radius: 10px;
 }
 a:hover {
   color: black;
   background: white;
+}
+div.footer_menu {
+  color: white;
+  width: 900px;
+  margin: auto;
+  font-size: 13px;
 }
 
 /* Overall */
@@ -35,11 +44,28 @@ body {
   font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
   color: black;
   margin: 0;
-  padding: 10px;
+  padding: 0;
 }
 h1 {
-  color: white;
+  color: black;
 }
 button {
   color: blue;
+}
+
+div.page_content {
+  margin-top: 0;
+  padding: 0;
+}
+
+div.wrapper {
+  background-color: red;
+  width: 892px;
+  margin: auto;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+a {
+  text-decoration: none;
 }
