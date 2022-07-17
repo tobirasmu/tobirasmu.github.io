@@ -34,7 +34,7 @@ a:hover {
 }
 div.footer_menu {
   color: white;
-  width: 900px;
+  width: 892px;
   margin: auto;
   font-size: 13px;
 }
@@ -59,7 +59,6 @@ div.page_content {
 }
 
 div.wrapper {
-  background-color: red;
   width: 892px;
   margin: auto;
   margin-top: 0;
