@@ -1,5 +1,6 @@
 ---
 title: "Front page"
+layout: default
 ---
 
 # Page under construction
