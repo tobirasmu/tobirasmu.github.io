@@ -1,7 +1,8 @@
 theme: jekyll-theme-minimal
 title: "Tobias E. Rasmussen"
 url: "https://www.radismussen.dk"
+baseurl: ""
 
 include:
-  - _pages
-  - _layouts
+  - _pages/
+  - _layouts/
