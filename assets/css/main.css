@@ -12,8 +12,22 @@ nav {
   margin: 0;
   padding: 0;
 }
-table, th, td {
-  border: 1px solid;
+table {
+  box-shadow: 0 4px 8px 1px rgba(0, 0, 0, 0.2);
+}
+th, td {
+  text-align: left;
+  padding: 10px;
+  padding-right: 20px;
+}
+th {
+  background: white;
+}
+tr:nth-child(even) {
+  background-color: rgba(0, 0, 0, 0.1);
+}
+tr:nth-child(odd) {
+  background-color: rgba(0, 0, 0, 0.05);
 }
 /* Here are the style choices for the top menu */
 ul.top_menu {
