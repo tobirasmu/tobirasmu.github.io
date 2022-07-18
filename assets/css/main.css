@@ -12,6 +12,9 @@ nav {
   margin: 0;
   padding: 0;
 }
+table, th, td {
+  border: 1px solid;
+}
 /* Here are the style choices for the top menu */
 ul.top_menu {
   list-style-type: circle;
