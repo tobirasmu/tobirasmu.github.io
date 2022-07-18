@@ -5,7 +5,7 @@ permalink: /recipes/pao_de_queijo
 ---
 
 # Pão de Queijo
-![](pics/PDQ.jpeg)
+![Pão de queijo](/assets/pics/PDQ.jpeg)
 
 Here it is! The recipe for the delicious Brasilian cheese buns that everybody ends up loving! They are gluten free which means that they are also a great hit with people that don't eat gluten.
 
