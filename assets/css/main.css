@@ -54,17 +54,33 @@ button {
 }
 
 div.page_content {
-  margin-top: 0;
-  padding: 0;
+  margin: 0;
+  padding: 0
 }
 
 div.wrapper {
   width: 892px;
   margin: auto;
-  margin-top: 0;
-  margin-bottom: 0;
 }
 
 a {
   text-decoration: none;
+}
+
+@media screen and (max-width: 900px) {
+  ul.top_menu {
+    width: auto;
+    margin: 0px;
+  }
+}
+
+@media screen and (max-width: 940px) {
+  div.footer_menu {
+    width: auto;
+    padding-left: 14px;
+  }
+  div.wrapper {
+    width: auto;
+    padding-left: 24px;
+  }
 }
