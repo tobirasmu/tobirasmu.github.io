@@ -6,6 +6,7 @@ header {
 footer {
   background: rgb(41, 44, 51);
   padding: 10px;
+  margin: auto;
 }
 nav {
   margin: 0;
@@ -33,8 +34,8 @@ a:hover {
   background: white;
 }
 div.footer_menu {
+  text-align: center;
   color: white;
-  width: 892px;
   margin: auto;
   font-size: 13px;
 }
