@@ -1,10 +1,10 @@
 /* Header and footer */
 header {
-  background: black;
+  background: rgb(41, 44, 51);
   padding: 20px;
 }
 footer {
-  background: black;
+  background: rgb(41, 44, 51);
   padding: 10px;
 }
 nav {
