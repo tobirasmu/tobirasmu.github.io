@@ -1,6 +1,6 @@
 ---
-title: "Front page"
 layout: default
+title: "Front page"
 ---
 
 # Page under construction
