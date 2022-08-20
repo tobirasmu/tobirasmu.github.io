@@ -139,6 +139,10 @@ tr:nth-child(even) {
 tr:nth-child(odd) {
   background-color: rgba(0, 0, 0, 0.05);
 }
+header a:hover {
+  color: skyblue;
+  transition: 0.7s ease;
+}
 
 @media(max-width: 980px) {
   header nav {
