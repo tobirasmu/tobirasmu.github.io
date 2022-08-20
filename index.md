@@ -11,5 +11,12 @@ This page have just launched and is not finished yet.
 
 This page is going to be serving as my personal website with information that I would like to share. Go to the [About] page to learn more about me! Go to [Pão de queijo] for the recipe for the Brasilian cheese buns.
 
+I will now attempt making a numbered list:
+
+1. Hej
+2. Hej2
+3. Hej3
+4. Dette burde være sidste punkt
+
 [About]: about
 [Pão de queijo]: recipes/pao_de_queijo
