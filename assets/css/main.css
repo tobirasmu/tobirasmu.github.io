@@ -3,16 +3,17 @@ body {
   color: black;
   margin: 0;
   padding: 0;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
 }
+
 h1 {
   color: black;
 }
+
 button {
   color: blue;
-}
-
-li {
-  list-style: none;
 }
 
 header {
@@ -101,7 +102,7 @@ li.TM_mid {
 footer {
   background: rgb(41, 44, 51);
   padding: 10px;
-  margin: auto;
+  margin-top: auto;
 }
 
 div.footer_menu {
@@ -156,7 +157,7 @@ header a:hover {
   }
   .TM_right-menu {
     position: fixed;
-    top: 100px;
+    top: 90px;
     left: 100%;
     background-color: rgb(41, 44, 51);
     color: black;
@@ -165,11 +166,11 @@ header a:hover {
     width: 100%;
     align-items: center;
     transition: 0.3s;
-    padding: 10px 0 0 0;
+    padding: 20px 0 0 0;
   }
   .TM_left-menu {
     position: fixed;
-    top: 100px;
+    top: 90px;
     left: -100%;
     background-color: rgb(41, 44, 51);
     color: black;
@@ -178,7 +179,7 @@ header a:hover {
     width: 100%;
     align-items: center;
     transition: 0.3s;
-    padding: 10px 0 0 0;
+    padding: 20px 0 0 0;
   }
   li.TM {
     margin: 0 0 16px 0;
