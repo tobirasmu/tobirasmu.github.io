@@ -9,16 +9,44 @@
   <link rel="stylesheet" href="assets/css/main.css">
 </head>
 <header>
-  <nav>
-    <ul class="top_menu">
-      <li class="top_menu"><a href="index.html" class="top_menu">Home</a></li>
-      <li class="top_menu"><a href="_pages/locations.html" class="top_menu">Locations</a></li>
-      <li class="top_menu"><a href="_pages/contacts.html" class="top_menu">Contacts</a></li>
-      <li class="top_menu_img"><a href="index.html" class="top_menu">Menu img</a></li>
-    </ul>
- 
-  </nav>
+<nav>
+  <ul class="TM">
+    <li><div class="hamburgerl">
+      <span class="bar"></span>
+      <span class="bar"></span>
+      <span class="bar"></span>
+    </div></li>
+    <li class="TM_left">
+      <ul class="TM_left-menu">
+        <li class="TM"><a href="#" class="nav-link">Item 1</a></li>
+        <li class="TM"><a href="#" class="nav-link">Language Learning</a></li>
+        <li class="TM"><a href="#" class="nav-link">Boardgames</a></li>
+      </ul>
+    </li>
+    <li class="TM_mid">
+      <ul class="TM_mid">
+        <li class="TM"><a href="{{ '/andre' | prepend: site.url}}" class="nav-link">André</a></li>
+        <li class="TM_img"><a href="{{site.url}}" class="nav-link">Home</a></li>
+        <li class="TM"><a href="{{ '/tobias' | prepend: site.url}}" class="nav-link">Tobias</a></li>
+      </ul>
+    </li>
+    <li class="TM_right">
+      <ul class="TM_right-menu">
+        <li class="TM"><a href="#" class="nav-link">Research</a></li>
+        <li class="TM"><a href="#" class="nav-link">Curling</a></li>
+        <li class="TM"><a href="#" class="nav-link">Recipes</a></li>
+      </ul>
+    </li>
+    <li><div class="hamburgerr">
+      <span class="bar"></span>
+      <span class="bar"></span>
+      <span class="bar"></span>
+    </div></li>
+  </ul>
+
+</nav>
 </header>
+<script src="{{ '/assets/js/script.js' | prepend: site.url }}" type="text/javascript"></script>
 <body>
   <div class="page_content">
     <div class="wrapper">

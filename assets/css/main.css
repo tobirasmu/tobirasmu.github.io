@@ -179,6 +179,9 @@ tr:nth-child(odd) {
   li.TM {
     margin: 0 0 16px 0;
   }
+  header ul.TM li {
+    padding: 0 5px 0 5px;
+  }
   .hamburgerl.active .bar:nth-child(2) {
     opacity: 0;
   }
