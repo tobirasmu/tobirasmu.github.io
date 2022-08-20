@@ -1,7 +1,8 @@
 /* Header and footer */
 header {
   background: rgb(41, 44, 51);
-  padding: 20px;
+  padding: 0px;
+  height: 75px;
 }
 footer {
   background: rgb(41, 44, 51);
@@ -33,7 +34,7 @@ tr:nth-child(odd) {
 ul.top_menu {
   list-style-type: circle;
   margin: auto;
-  padding: 0;
+  padding: 30px;
   width: 900px;
 }
 li.top_menu {
@@ -41,6 +42,20 @@ li.top_menu {
   margin: 0 20px 0 0;
   color: white;
 }
+
+header li.top_menu_img {
+  background-image: url('/assets/pics/PDQ.jpeg');
+  background-size: cover;
+  display: inline-block;
+  height: 100px;
+  width: 100px;
+  border-radius: 50px;
+  text-indent: -999999px;
+  overflow: visible;
+  position: relative;
+  top: -40px;
+}
+
 a.top_menu {
   color: white;
   padding: 4px;
@@ -87,7 +102,7 @@ a {
 
 @media screen and (max-width: 900px) {
   ul.top_menu {
-    width: auto;
+    width: 80%;
     margin: 0px;
   }
 }

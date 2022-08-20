@@ -1,6 +1,6 @@
 ---
-permalink: /about
-title: "About me"
+permalink: /tobias
+title: "About Tobias"
 layout: default
 ---
 
