@@ -18,5 +18,11 @@ I will now attempt making a numbered list:
 3. Hej3
 4. Dette burde være sidste punkt
 
+Under her burde være en unnumbered list:
+
+- Hej
+- Med
+- Dig
+
 [About]: about
 [Pão de queijo]: recipes/pao_de_queijo
