@@ -105,6 +105,11 @@ footer {
   margin-top: auto;
 }
 
+footer a {
+  text-decoration: none;
+  color: skyblue;
+}
+
 div.footer_menu {
   text-align: center;
   color: white;
@@ -120,6 +125,11 @@ div.page_content {
 div.wrapper {
   width: 900px;
   margin: auto;
+}
+
+.wrapper a {
+  text-decoration: none;
+  color: dodgerblue;
 }
 
 /*Here are the style choices for the tables*/
