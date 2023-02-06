@@ -1,11 +1,11 @@
 ---
 title: "Recipes"
 layout: default
-permalink: /recipes
+permalink: tobias/recipes
 ---
 
 # This is an overview of our Recipes
 
 Check out our [Pão de queijo] recipe.
 
-[Pão de queijo]: recipes/pao_de_queijo
+[Pão de queijo]: tobias/recipes/pao_de_queijo
