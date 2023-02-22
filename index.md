@@ -7,22 +7,10 @@ title: "Front page"
 
 This page have just launched and is not finished yet.
 
-## Me
+## André and Tobias
 
-This page is going to be serving as my personal website with information that I would like to share. Go to the [About] page to learn more about me! Go to [Pão de queijo] for the recipe for the Brasilian cheese buns.
+We are a Brasilian/Danish couple living in Copenhagen. We both love to find ways of living our lives to the fullest and get the best out of it. We are naturally very curious and love to explore ways to make both our selves and our lifes better. We love to spend time with each other and with our friends playing boardgames, or just having a nice time together. Read more about each of us on this website.
 
-I will now attempt making a numbered list:
+Go to [Pão de queijo] for the recipe for the Brasilian cheese buns.
 
-1. Hej
-2. Hej2
-3. Hej3
-4. Dette burde være sidste punkt
-
-Under her burde være en unnumbered list:
-
-- Hej
-- Med
-- Dig
-
-[About]: about
 [Pão de queijo]: tobias/recipes/pao_de_queijo
