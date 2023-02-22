@@ -55,7 +55,7 @@ li.TM_img a {
   height: 100px;
   border-radius: 50px;
   overflow: display;
-  position: relative;
+  position: center;
   top: -35px;
 }
 
