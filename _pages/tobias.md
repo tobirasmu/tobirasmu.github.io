@@ -6,7 +6,7 @@ layout: default
 
 # Tobias Engelhardt Rasmussen
 
-<p align="center"><img align="center" src="/assets/pics/tobias.jpg" width="500"><p/>
+<p align="center"><img align="center" src="/assets/pics/tobias.jpg" width="500"></p>
 
 I am a Danish man living in Copenhagen and working in Lyngby as a PhD student at DTU Compute. I am currently researching machine learning and mathematical modelling and how machine learning can be used to solve different problems in broadband networks, but I am by nature a very curious guy that has a great interest in many different topics. I have also been playing curling since I was 12 years old, which has given me many amazing experiences. I love to see the world, which I have also been able to do on numerous occations in relation to my sport and to my semesters abroad, studying in North America.
 
