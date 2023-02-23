@@ -8,4 +8,4 @@ permalink: tobias/recipes
 
 Check out our [Pão de queijo] recipe.
 
-[Pão de queijo]: tobias/recipes/pao_de_queijo
+[Pão de queijo]: recipes/pao_de_queijo
