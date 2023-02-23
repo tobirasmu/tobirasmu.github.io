@@ -1,7 +1,7 @@
 ---
 title: "Pão de queijo"
 layout: default
-permalink: /tobias/recipes/pao_de_queijo
+permalink: tobias/recipes/pao_de_queijo
 ---
 
 # Pão de Queijo
