@@ -20,7 +20,7 @@ Yields around 10 baking trays of snacks (a lot).
 | 200 ml | Boiling water |
 | 200 ml | Room temperature milk |
 | 1 | Egg |
-| 1 tsp | Salt |
+| 1 1/2 tsp | Salt |
 
 ## Instructions
 
