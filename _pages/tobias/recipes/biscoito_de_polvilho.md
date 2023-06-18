@@ -6,7 +6,7 @@ permalink: tobias/recipes/biscoito_de_polvilho
 
 # Biscoito de Polvilho Salgado - Airy and salty beach snacks from Brazil
 
-This recipe makes a big portion of the dough and turns into a lot (!) of snacks because their size increases drammatically during baking. The dough can however easily be prepared and saved in the fridge for later baking. The main ingredient for making the snacks comes from the cassava root and specifically the *polvilho azedo* flour (sour starch) that is gluten free. The recipe is based on the recipe from [this site](https://www.receiteria.com.br/receita/biscoito-de-polvilho-assado/) (in Portuguese).
+This recipe makes a big portion of the dough and turns into a lot (!) of snacks because their size increases drammatically during baking. The dough can however easily be prepared and saved in the fridge for later baking. The main ingredient for making the snacks comes from the cassava root and specifically the *polvilho azedo* flour (sour starch) that is gluten free. The recipe is based on the recipe from [this site](https://www.receiteria.com.br/receita/biscoito-de-polvilho-assado/) (in Portuguese), so go there for pictures of the process.
 
 
 ## Ingredients
@@ -15,7 +15,7 @@ Yields around 10 baking trays of snacks (a lot).
 
 | Amount  | Ingredient |
 | ------- | ---------- |
-| 500 g | Polvilho azedo (can be bought from *tasteoflatinamerica* e.g. [here](https://www.tasteoflatinamerica.dk/dk/sur-kassava-mel-polvilho-mandioca-azedo-500-gr-glutenfri.html) or [here](https://www.tasteoflatinamerica.dk/dk/sur-kassava-mel-polvilho-mandioca-azedo-500-gr-glutenfri.html)|
+| 500 g | Polvilho azedo (can be bought from *tasteoflatinamerica* e.g. [here](https://www.tasteoflatinamerica.dk/dk/sur-kassava-mel-polvilho-mandioca-azedo-500-gr-glutenfri.html) or [here](https://www.tasteoflatinamerica.dk/dk/sur-kassava-mel-polvilho-mandioca-azedo-500-gr-glutenfri.html))|
 | 200 ml | Oil (tasteless) |
 | 200 ml | Boiling water |
 | 200 ml | Room temperature milk |
