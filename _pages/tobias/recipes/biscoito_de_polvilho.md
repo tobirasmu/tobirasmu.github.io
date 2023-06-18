@@ -24,10 +24,13 @@ Yields around 10 baking trays of snacks (a lot).
 
 ## Instructions
 
-1. Heat the **milk, oil** and **salt** up in a small saucepan until the mixture is boiling. Keep stiring to avoid the milk from burning on the bottom.
-2. In a bowl mix the **tapioca granulada** with the hot milk-mixture. Stir occasionally until the mixture becomes grainy. Let the mixture cool down all the way so it becomes very stiff.
-3. Add the **cheese, polvilho doce** and **egg** to the mixture and mix / kneed it well with your hands. A stand-mixture can easily be used for this purpose.
-4. Roll the dough into small balls using your hands. The balls can optionally be rolled in more grated parmesan cheese. Place the balls on a baking tray with a bit of distance. The buns grow a bit when baked.
-5. Bake in the oven at **180°C for 20-30 min.** or until they become a dark golden brown. You may have to rotate the baking tray at the halfway mark to get a consistent bake. The balls can also be kept in the freezer ready to bake.
+1. Boil the water and heat the milk to room temperature.
+2. In a bowl mix the **polvilho azedo** with the **salt**.
+3. Add **half of the boiling water** and mix well (dry and clumpy dough)
+4. Add **half the milk** and **half the oil** and mix well (e.g. using your hands)
+5. Add the rest of the **milk**, **water**, and **oil** and keep mixing until the dough is homogeneous. This can take some work, so using a stand mixer could be beneficial.
+6. Put the dough into a plastic / piping bag and cut a small hole from which to pipe the dough.
+7. Pipe the dough onto a baking tray lined with parchment paper. The thickness of the cookies should be quite similar for even baking, but shapes / lenghts are totally up to you! Traditionally either sticks or rings. The snacks move during baking, so don't spend too much time getting the just right. For references the thickness should be around half a cm.
+8. Bake at **200°C** until they start to get golden brown. It might be beneficial to turn the baking tray halfway through, if your oven heats unevenly. Keep an eye on the snacks as they bake quite quickly and because it is fun to watch them get bigger and move around! Notice that when the snacks start to get some color, smoke is generated in the oven - the smoke does not (necessarily) mean that they are burned.
 
-If you can resist eating them straight off the baking tray, the buns can be kept in the fridge for up to two weeks and can easily be reheated.
+The cookies only become crisp after cooling down. Afterwards, keep them in an airtight container.
