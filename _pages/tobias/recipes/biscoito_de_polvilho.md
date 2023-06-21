@@ -29,8 +29,9 @@ Yields around 10 baking trays of snacks (a lot).
 3. Add **half of the boiling water** and mix well (dry and clumpy dough)
 4. Add **half the milk** and **half the oil** and mix well (e.g. using your hands)
 5. Add the rest of the **milk**, **water**, and **oil** and keep mixing until the dough is homogeneous. This can take some work, so using a stand mixer could be beneficial.
-6. Put the dough into a plastic / piping bag and cut a small hole from which to pipe the dough.
-7. Pipe the dough onto a baking tray lined with parchment paper. The thickness of the cookies should be quite similar for even baking, but shapes / lenghts are totally up to you! Traditionally either sticks or rings. The snacks move during baking, so don't spend too much time getting the just right. For references the thickness should be around half a cm.
-8. Bake at **200°C** until they start to get golden brown. It might be beneficial to turn the baking tray halfway through, if your oven heats unevenly. Keep an eye on the snacks as they bake quite quickly and because it is fun to watch them get bigger and move around! Notice that when the snacks start to get some color, smoke is generated in the oven - the smoke does not (necessarily) mean that they are burned.
+6. Add the egg and mix until fully combined.
+7. Put the dough into a plastic / piping bag and cut a small hole from which to pipe the dough.
+8. Pipe the dough onto a baking tray lined with parchment paper. The thickness of the cookies should be quite similar for even baking, but shapes / lenghts are totally up to you! Traditionally either sticks or rings. The snacks move during baking, so don't spend too much time getting the just right. For references the thickness should be around half a cm.
+9. Bake at **200°C** until they start to get golden brown. It might be beneficial to turn the baking tray halfway through, if your oven heats unevenly. Keep an eye on the snacks as they bake quite quickly and because it is fun to watch them get bigger and move around! Notice that when the snacks start to get some color, smoke is generated in the oven - the smoke does not (necessarily) mean that they are burned.
 
 The cookies only become crisp after cooling down. Afterwards, keep them in an airtight container.
