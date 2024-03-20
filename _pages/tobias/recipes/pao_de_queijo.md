@@ -25,7 +25,7 @@ Yields around 15 buns
 | 150 g | Tapioca granulada |
 | 1 | Egg |
 | 100 g | Grated parmesan cheese |
-| 60 g | Polvilho doce |
+| 90 g | Polvilho doce |
 |  | Grated parmesan cheese for roling |
 
 ## Instructions
